@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/adviceapp/static/css/main.1d9e2550.css",
+    "main.js": "/adviceapp/static/js/main.e4848ae9.js",
+    "static/media/image_3.jpg": "/adviceapp/static/media/image_3.7a93b29797d98aa387fc.jpg",
+    "static/media/image_1.jpg": "/adviceapp/static/media/image_1.a7f99c9dfff259563434.jpg",
+    "static/media/image_5.jpg": "/adviceapp/static/media/image_5.1e68904a180b3716d8b2.jpg",
+    "static/media/whatsapp.png": "/adviceapp/static/media/whatsapp.2cfc6dafd16c6b98d875.png",
+    "static/media/image_6.jpg": "/adviceapp/static/media/image_6.cca588acb92b35579f32.jpg",
+    "static/media/image_2.jpg": "/adviceapp/static/media/image_2.2f7dc8e587b8f4af3a07.jpg",
+    "static/media/loading.gif": "/adviceapp/static/media/loading.b21fa87ebeb0e841ee8a.gif",
+    "static/media/image_4.jpg": "/adviceapp/static/media/image_4.e46ac9364ee94057796a.jpg",
+    "index.html": "/adviceapp/index.html",
+    "main.1d9e2550.css.map": "/adviceapp/static/css/main.1d9e2550.css.map",
+    "main.e4848ae9.js.map": "/adviceapp/static/js/main.e4848ae9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d9e2550.css",
+    "static/js/main.e4848ae9.js"
+  ]
+}
